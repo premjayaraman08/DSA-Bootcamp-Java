@@ -1,7 +1,7 @@
 # String Overview
 
 ## Reference notes
-[Handwritten Notes of 2 users](lectures/12-strings/String-2-users-notes.pdf)
+[Handwritten Notes of 2 users](String-2-users-notes.pdf)
 
 ## Q&A
 - What is String ? Some hints
