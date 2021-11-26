@@ -1,7 +1,7 @@
 #String Overview
 
-## Reference notes
-[String-2-users-notes.pdf](Notes of 2 users)
+##Reference notes
+[String-2-users-notes.pdf]- Handwritten Notes of 2 users 
 
 ##Q&A
 - What is String ? Some hints
@@ -59,4 +59,6 @@
    ```
 - Many more helpful methods are also present like 
   - toCharArray() - convert sting to CharArray
+  - getBytes()
+  - toLowerCase
   - length()
