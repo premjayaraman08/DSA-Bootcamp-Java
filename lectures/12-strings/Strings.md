@@ -1,9 +1,9 @@
-#String Overview
+# String Overview
 
-##Reference notes
+## Reference notes
 [String-2-users-notes.pdf]- Handwritten Notes of 2 users 
 
-##Q&A
+## Q&A
 - What is String ? Some hints
   - Reference variable
   - value , objects
