@@ -6,6 +6,7 @@ public class RBS {
         System.out.println(findPivotWithDuplicates(arr));
     }
 
+
     static int search(int[] nums, int target) {
         int pivot = findPivot(nums);
 
